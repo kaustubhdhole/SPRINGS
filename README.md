@@ -1,0 +1,2 @@
+# SPRINGS
+A new method, SPRINGS (Sequence-based predictor of PRotein- protein interactING Site), is put forward which predicts if a residue in a given protein sequence is an protein-protein interaction site or not. The presented method has been implemented with the help of Neural Networks using sequence information alone. SPRINGS has been further benchmarked against other publicly available predictors.
